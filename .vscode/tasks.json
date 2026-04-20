@@ -3,7 +3,7 @@
   "tasks": [
     {
       "label": "Run Current Exercise",
-      "type": "shell",
+      "type": "process",
       "command": "C:\\Users\\Edv\\AppData\\Local\\node-v24.15.0-win-x64\\node.exe",
       "args": [
         "${file}"
