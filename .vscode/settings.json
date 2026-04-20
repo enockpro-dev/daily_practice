@@ -2,6 +2,9 @@
   "code-runner.runInTerminal": true,
   "code-runner.clearPreviousOutput": true,
   "code-runner.executorMap": {
-    "javascript": "node"
+    "javascript": "\"C:\\Users\\Edv\\AppData\\Local\\node-v24.15.0-win-x64\\node.exe\""
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Users\\Edv\\AppData\\Local\\node-v24.15.0-win-x64;${env:PATH}"
   }
 }
