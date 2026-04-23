@@ -1,7 +1,7 @@
 // Loop Practice
 
 // Task 21: Count from 1 to 5
-for (let i = 1; i <= 5; i++) {
+for (let i = 1; i <= 6; i++) {
   console.log(i);
 }
 
@@ -23,7 +23,7 @@ for (let i = 1; i <= 3; i++) {
 // Task 24: Use a variable in a loop
 let message = "I am learning JS";
 
-for (let i = 1; i <= 4; i++) {
+for (let i = 1; i <= 5; i++) {
   console.log(message);
 }
 
