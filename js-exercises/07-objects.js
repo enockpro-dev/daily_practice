@@ -3,7 +3,7 @@
 // Task 31: Make an object
 let person = {
   name: "Edv",
-  age: 20,
+  age: 23,
   country: "Uganda"
 };
 
